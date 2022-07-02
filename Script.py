@@ -17,7 +17,7 @@ class script(object):
 <b>○ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦: 𝘗𝘺𝘵𝘩𝘰𝘯 3</b>
 <b>○ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦: <a href=https://www.mongodb.com/>𝘔𝘰𝘯𝘨𝘰𝘋-𝘉</a></b>
 <b>○ 𝘚𝘦𝘳𝘷𝘦𝘳: <a href=https://www.heroku.com/>𝘏𝘦𝘳𝘰𝘬𝘶</a></b>
-<b>○ 𝘚𝘰𝘶𝘳𝘤𝘦𝘊𝘰𝘥𝘦: <a href=https://t.me/faisalkvr>𝘔𝘪𝘳𝘴𝘩𝘢𝘥</a></b>
+<b>○ 𝘚𝘰𝘶𝘳𝘤𝘦𝘊𝘰𝘥𝘦: <a href=https://t.me/MkTgBots>𝘊𝘭𝘪𝘤𝘬𝘩𝘦𝘳𝘦</a></b>
 <b>○ 𝘉𝘶𝘪𝘭𝘥 𝘚𝘵𝘢𝘵𝘶𝘴: 𝚅2.0.00</b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
