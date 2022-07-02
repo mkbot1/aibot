@@ -49,7 +49,7 @@ def song(client, message):
         open(thumb_name, 'wb').write(thumb.content)
 
 
-        performer = f"[ᗩᒍᗩ᙭]" 
+        performer = f"[M-FILES]" 
         duration = results[0]["duration"]
         url_suffix = results[0]["url_suffix"]
         views = results[0]["views"]
@@ -60,13 +60,13 @@ def song(client, message):
         )
         print(str(e))
         return
-    m.edit("**dσwnlσαdíng чσur ѕσng...!**")
+    m.edit("𝒟𝒪𝒲𝒩𝐿𝒪𝒜𝒟𝐼𝒩𝒢 𝒴𝒪𝒰𝑅 𝒮𝒪𝒩𝒢...!")
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 ›› [𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)**\n**𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ›› [muѕíc вσч](https://t.me/OPMusicBoy_Bot)**'
+        rep = '**GROUPS ›› [MUSIC GROUP](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)**\n**DEVELOPER ›› [MIRSHAD](https://t.me/faisalkvr)**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
