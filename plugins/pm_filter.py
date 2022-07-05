@@ -173,6 +173,10 @@ async def next_page(bot, query):
     if settings['button']:
         btn = [
             [
+            InlineKeyboardButton('𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url='https://t.me/MkTgBots'),
+            InlineKeyboardButton('𝙂𝙍𝙊𝙐𝙋', url='https://t.me/AnySongsRequest'),
+            InlineKeyboardButton('𝙃𝙊𝙈𝙀', callback_data='start')
+        ]],
                 InlineKeyboardButton(
                     text=f"[{get_size(file.file_size)}]→ {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
@@ -1387,13 +1391,12 @@ async def auto_filter(client, msg, spoll=False):
     else:
         btn = [
             [
+            InlineKeyboardButton('𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url='https://t.me/MkTgBots'),
+            InlineKeyboardButton('𝙂𝙍𝙊𝙐𝙋', url='https://t.me/AnySongsRequest'),
+            InlineKeyboardButton('𝙃𝙊𝙈𝙀', callback_data='start')
+        ]],
                 InlineKeyboardButton(
-                    text=f"{file.file_name}",
-                    callback_data=f'{pre}#{file.file_id}',
-                ),
-                InlineKeyboardButton(
-                    text=f"{get_size(file.file_size)}",
-                    callback_data=f'{pre}_#{file.file_id}',
+                    text=f"[{get_size(file.file_size)}]→ {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
