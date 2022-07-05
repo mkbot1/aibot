@@ -804,9 +804,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝘍𝘐𝘓𝘌 𝘚𝘛𝘖𝘙𝘌', callback_data='newdata'),
             InlineKeyboardButton('𝘚𝘛𝘐𝘊𝘒𝘌𝘙-𝘐𝘋', callback_data='sticker')
             ],[
-            InlineKeyboardButton('𝙃𝙀𝙇𝙋🙌', callback_data='help'),
+            InlineKeyboardButton('𝘼𝘽𝙊𝙐𝙏🧑‍💻', callback_data='about'),
             InlineKeyboardButton('𝙎𝙏𝘼𝙏𝙐𝙎🔰', callback_data='stats'),
-            InlineKeyboardButton('𝘼𝘽𝙊𝙐𝙏🧑‍💻', callback_data='about')
+            InlineKeyboardButton(text="𝘾𝙡𝙤𝙨𝙚⛔", callback_data="close_data")
             ],[
             InlineKeyboardButton('𝙃𝙊𝙈𝙀🏠', callback_data='start'),
         ]]
@@ -864,9 +864,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝘍𝘐𝘓𝘌 𝘚𝘛𝘖𝘙𝘌', callback_data='newdata'),
             InlineKeyboardButton('𝘚𝘛𝘐𝘊𝘒𝘌𝘙-𝘐𝘋', callback_data='sticker')
             ],[
-            InlineKeyboardButton('𝙃𝙀𝙇𝙋🙌', callback_data='help'),
+            InlineKeyboardButton('𝘼𝘽𝙊𝙐𝙏🧑‍💻', callback_data='about'),
             InlineKeyboardButton('𝙎𝙏𝘼𝙏𝙐𝙎🔰', callback_data='stats'),
-            InlineKeyboardButton('𝘼𝘽𝙊𝙐𝙏🧑‍💻', callback_data='about')
+            InlineKeyboardButton(text="𝘾𝙡𝙤𝙨𝙚⛔", callback_data="close_data")
             ],[
             InlineKeyboardButton('𝙃𝙊𝙈𝙀🏠', callback_data='start'),
         ]]
