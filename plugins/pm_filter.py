@@ -746,7 +746,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='suppage')
+            InlineKeyboardButton('+ 𝗔𝗱𝗱 𝗺𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            ],[      
+            InlineKeyboardButton('𝙃𝙚𝙡𝙥', callback_data='help'),
+            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -944,19 +947,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
-        elif query.data == "suppage":
-        buttons = [[
-            InlineKeyboardButton('+ 𝗔𝗱𝗱 𝗺𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[      
-            InlineKeyboardButton('𝙃𝙚𝙡𝙥', callback_data='help'),
-            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='about')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode='html'
         )
