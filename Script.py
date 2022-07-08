@@ -209,19 +209,19 @@ Delete A Lot Of Messages From Groups!
  <b>ADMIN</b> 
 
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """𝘏𝘌𝘓𝘗: <b>𝘽𝙐𝙏𝙏𝙊𝙉𝙎</b>
 
--eva  Supports both url and alert inline buttons.
+-𝙚𝙫𝙖  𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘣𝘰𝘵𝘩 𝘶𝘳𝘭 𝘢𝘯𝘥 𝘢𝘭𝘦𝘳𝘵 𝘪𝘯𝘭𝘪𝘯𝘦 𝘣𝘶𝘵𝘵𝘰𝘯𝘴.
 
-<b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. eva supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+<b>𝘕𝘖𝘛𝘌:</b>
+1. 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵 𝘢𝘭𝘭𝘰𝘸𝘴 𝘺𝘰𝘶 𝘵𝘰 𝘴𝘦𝘯𝘥 𝘣𝘶𝘵𝘵𝘰𝘯𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘢𝘯𝘺 𝘤𝘰𝘯𝘵𝘦𝘯𝘵, 𝘴𝘰 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘪𝘴 𝘮𝘢𝘯𝘥𝘢𝘵𝘰𝘳𝘺.
+2. 𝙚𝙫𝙖 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘣𝘶𝘵𝘵𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘢𝘯𝘺 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘮𝘦𝘥𝘪𝘢 𝘵𝘺𝘱𝘦.
+3. 𝘉𝘶𝘵𝘵𝘰𝘯𝘴 𝘴𝘩𝘰𝘶𝘭𝘥 𝘣𝘦 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘱𝘢𝘳𝘴𝘦𝘥 𝘢𝘴 𝘮𝘢𝘳𝘬𝘥𝘰𝘸𝘯 𝘧𝘰𝘳𝘮𝘢𝘵
 
-<b>URL buttons:</b>
+<b>𝙐𝙍𝙇 𝙗𝙪𝙩𝙩𝙤𝙣𝙨:</b>
 <code>[Button Text](buttonurl:https://t.me/AnyMoviezRequest)</code>
 
-<b>Alert buttons:</b>
+<b>𝘼𝙡𝙚𝙧𝙩 𝙗𝙪𝙩𝙩𝙤𝙣𝙨:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """<b>𝘈𝘜𝘛𝘖 𝘍𝘐𝘓𝘛𝘌𝘙 𝘖𝘕/𝘖𝘍𝘍 𝘔𝘖𝘋𝘜𝘓𝘌..</b>
 
@@ -234,16 +234,16 @@ Delete A Lot Of Messages From Groups!
 <b>›› /get_template - 𝘎𝘌𝘛 𝘊𝘜𝘙𝘙𝘌𝘕𝘛 𝘐𝘔𝘋𝘉 𝘛𝘌𝘔𝘗𝘓𝘈𝘛𝘌 𝘍𝘖𝘙 𝘈𝘜𝘛𝘖 𝘍𝘐𝘓𝘛𝘌𝘙.</b>
 
 <b>𝘽𝙤𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 ›› <a href=https://t.me/MkTgBots><b>𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡</b></a>"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """𝘏𝘌𝘓𝘗: <b>𝘾𝙤𝙣𝙣𝙚𝙘𝙩𝙞𝙤𝙣𝙨</b>
 
-- Used to connect bot to PM for managing filters 
-- it helps to avoid spamming in groups.
+- 𝘜𝘴𝘦𝘥 𝘵𝘰 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘣𝘰𝘵 𝘵𝘰 𝘗𝘔 𝘧𝘰𝘳 𝘮𝘢𝘯𝘢𝘨𝘪𝘯𝘨 𝘧𝘪𝘭𝘵𝘦𝘳𝘴 
+- 𝘪𝘵 𝘩𝘦𝘭𝘱𝘴 𝘵𝘰 𝘢𝘷𝘰𝘪𝘥 𝘴𝘱𝘢𝘮𝘮𝘪𝘯𝘨 𝘪𝘯 𝘨𝘳𝘰𝘶𝘱𝘴.
 
-<b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+<b>𝘕𝘖𝘛𝘌:</b>
+1. 𝘖𝘯𝘭𝘺 𝘢𝘥𝘮𝘪𝘯𝘴 𝘤𝘢𝘯 𝘢𝘥𝘥 𝘢 𝘤𝘰𝘯𝘯𝘦𝘤𝘵𝘪𝘰𝘯.
+2. 𝘚𝘦𝘯𝘥 <code>/connect</code> 𝘧𝘰𝘳 𝘤𝘰𝘯𝘯𝘦𝘤𝘵𝘪𝘯𝘨 𝘮𝘦 𝘵𝘰 𝘶𝘳 𝘗𝘔
 
-<b>Commands and Usage:</b>
+<b>𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴 𝘢𝘯𝘥 𝘜𝘴𝘢𝘨𝘦:</b>
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
