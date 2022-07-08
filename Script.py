@@ -3,7 +3,8 @@ class script(object):
 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪, 𝘐'𝘮 𝘢 𝘧𝘢𝘴𝘵𝘦𝘴𝘵 𝘱𝘳𝘦- 𝘍𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘦𝘥 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘣𝘰𝘵 🧑‍💻
 
 
-𝘐𝘵𝘴 𝘦𝘢𝘴𝘺 𝘵𝘰 𝘶𝘴𝘦 𝘮𝘦, 𝘑𝘶𝘴𝘵 𝘢𝘥𝘥 𝘮𝘦 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘨𝘳𝘰𝘶𝘱 𝘢𝘴 𝘢𝘥𝘮𝘪𝘯, 𝘩𝘪𝘵 /𝘩𝘦𝘭𝘱 𝘧𝘰𝘳 𝘮𝘦
+𝘐𝘵𝘴 𝘦𝘢𝘴𝘺 𝘵𝘰 𝘶𝘴𝘦 𝘮𝘦, 𝘑𝘶𝘴𝘵 𝘢𝘥𝘥 𝘮𝘦 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘨𝘳𝘰𝘶𝘱 𝘢𝘴 𝘢𝘥𝘮𝘪𝘯,
+𝘩𝘪𝘵 /𝘩𝘦𝘭𝘱 𝘧𝘰𝘳 𝘮𝘦
 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳   : <a href=https://t.me/faisalkvr>𝘔𝘪𝘳𝘴𝘩𝘢𝘥</a>
 𝘔𝘢𝘪𝘯𝘵𝘦𝘯𝘢𝘯𝘤𝘦: 𝘑𝘢𝘮𝘴𝘩𝘢𝘥,𝘍𝘢𝘪𝘴𝘢𝘭 """
     HELP_TXT = """𝖧i {}
@@ -64,9 +65,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
+<code>/batch https://t.me/MkTgBots/4 https://t.me/MkTgBots/5</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝘽𝙤𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 ›› <a href=https://t.me/MkTgBots><b>𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -81,7 +82,7 @@ Note:- Give a user details
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ››</b> <i><b>https://t.me/MkTgBots</b></i>
 
 <b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>
 
