@@ -247,7 +247,6 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('+ 𝗔𝗱𝗱 𝗺𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 +', url=f'http://t.me/{temp.U_NAME}?startgroup=true') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
