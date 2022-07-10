@@ -80,7 +80,7 @@ Note:- Give a user details
 3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
 4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
+    DEPLOY_TXT = """<b>𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘌𝘙..</b> 
   
 <b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ››</b> <i><b>https://t.me/MkTgBots</b></i>
 
