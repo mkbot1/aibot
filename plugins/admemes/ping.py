@@ -50,6 +50,7 @@ async def channel(_, message):
 async def ajax(_, message):
     await message.reply_text(AJAX)
     
+    
 @Client.on_message(filters.command("gpay", COMMAND_HAND_LER) & f_onw_fliter)
 async def ajax(_, message):
     await message.reply_text(GPLINK)
