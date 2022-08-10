@@ -13,6 +13,7 @@ REPO = "<b>നോക്കി നിന്നോ ഇപ്പൊ കിട്ട
 CHANNEL = "<b>𝗖𝗛𝗔𝗡𝗡𝗘𝗟</b> ›› url='https://t.me/MkTgBots'\n\n<b>𝙈𝙊𝙑𝙄𝙀 𝙂𝙍𝙊𝙐𝙋 ›› https://t.me/AnyMoviezRequest</b>\n\n<b>𝙈𝙐𝙎𝙄𝘾 𝙂𝙍𝙊𝙐𝙋 ›› https://t.me/AnySongsRequest</b>"
 AJAX = "<b>Link ›› url='https://bit.ly/3oWHMBw'</b>"
 YTPLINK = "<b>Link ›› url='https://bit.ly/3oWHMBw'</b>"
+GPLINK = "CED2SXCZ1HLEKJE1"
 # -- Constants End -- #
 
 
@@ -49,9 +50,9 @@ async def channel(_, message):
 async def ajax(_, message):
     await message.reply_text(AJAX)
     
-@Client.on_message(filters.command("faisalvellippa", COMMAND_HAND_LER) & f_onw_fliter)
+@Client.on_message(filters.command("gpay", COMMAND_HAND_LER) & f_onw_fliter)
 async def ajax(_, message):
-    await message.reply_text(YTPLINK)
+    await message.reply_text(GPLINK)
 
     
 @Client.on_message(filters.command("youtubepremium", COMMAND_HAND_LER) & f_onw_fliter)
